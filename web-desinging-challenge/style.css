@@ -1,0 +1,25 @@
+.navbar navbar-expand-lg navbar-light bg-light { background-color: aquamarine;}
+.center { position: relative;
+top:20%;
+left:37%;
+color: #033538;}
+.grey{background-color: rgb(208, 231, 231);}
+
+
+
+/* .nav-item-dropdown{ visibility: hidden;} */
+
+
+@media (max-width : 900px)
+{
+center { position: relative;
+    top:20%;
+    left:3%;
+    color: #18b60a;}
+
+.images{ visibility: hidden;}
+.center { position: relative;
+    top:20%;
+    left:0%;
+    color: #033538;}
+}
